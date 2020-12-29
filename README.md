@@ -5,3 +5,5 @@
 3. Akan ada pilihan pembuatan virus untuk android, windows, macOSX 
 4. Ikuti petunjuk selanjutnya
 5. Sebarkan virus.apk
+
+requtment
